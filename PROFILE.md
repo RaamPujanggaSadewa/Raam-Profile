@@ -21,6 +21,12 @@ I also believe in lifting others up. I mentor junior designers and teach UI/UX b
 
 ---
 
+## Career direction
+
+I'm pursuing two parallel paths. In the immediate term, I'm deepening my teaching practice with currently 350+ hours across bootcamps and mentorship, aiming to become a lecturer who teaches digital product design and strategy. Longer-term, I'm working toward a Chief Product Officer role, which feels like the natural evolution of owning product strategy end-to-end. I'm open to any industry or company stage. The problem and team matter more than the logo. Teaching now builds the clarity and communication skills I'll need as a CPO. They're not separate paths, they're complementary.
+
+---
+
 ## Education
 
 **Bachelor of Engineering, Computer Engineering**
