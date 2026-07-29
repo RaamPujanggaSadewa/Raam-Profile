@@ -11,6 +11,16 @@ Product Designer & Researcher with 6+ years of experience building and scaling d
 
 ---
 
+## Design Philosophy
+
+I start with understanding reality by talking to users, shadowing teams, and collaborating with product and engineering from day one. I don't assume. I observe. I adapt my process to real constraints like time, resources, and team size rather than forcing a perfect methodology. I validate through research and iteration, not gut feel.
+
+Design is a conversation, not a handoff. I won't ship without the implementation team's input or without testing with real users. The best solutions come from cross-functional collaboration and seeing how people actually work.
+
+I also believe in lifting others up. I mentor junior designers and teach UI/UX because I think the field grows when we share what we know.
+
+---
+
 ## Education
 
 **Bachelor of Engineering, Computer Engineering**
