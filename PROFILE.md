@@ -27,6 +27,18 @@ I'm pursuing two parallel paths. In the immediate term, I'm deepening my teachin
 
 ---
 
+## What others say
+
+"Working with Raam was a pleasure. He elevated my vision beyond expectations with his creativity and expertise, making the process seamless." — Ibraheem Olasupo, CEO, Service-Plus Connect
+
+"I highly recommend Raam as a talented product designer. He elevated my vision beyond expectations with his creativity and user-centric mindset. A true team player, he integrates user needs seamlessly and delivers intuitive designs." — Kandika Bagaskara, FLIK
+
+"Raam is diligent and brings a strong user-centric mindset with attention to detail. His designs are intuitive and he embraces feedback, making him a valuable team player." — Athur Muharam, Pegipegi
+
+"Raam is great to work with. Smart and experienced." — Bevan Hockly, CEO, OOSH
+
+---
+
 ## Education
 
 **Bachelor of Engineering, Computer Engineering**
