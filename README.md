@@ -15,6 +15,16 @@ Product Designer & Researcher with **6+ years of experience** building and scali
 
 ---
 
+## Featured Case Studies
+
+| Project | Company | Outcome |
+|---------|---------|---------|
+| [Checkout Conversion Optimization](https://github.com/RaamPujanggaSadewa/FLIK-Checkout-Conversion) | FLIK | Research-led checkout redesign, boosted conversion |
+| [Disbursement Process Automation](https://github.com/RaamPujanggaSadewa/Pegipegi-Disbursement-Automation) | Pegipegi | 76% efficiency improvement |
+| [Ride-Hailing Marketplace Design](https://github.com/RaamPujanggaSadewa/Tetanggaku-Ride-Hailing-Marketplace) | Tetanggaku | 100K+ downloads, 4.5★ rating |
+
+---
+
 ## Navigate
 
 | File | Contents |
@@ -24,6 +34,7 @@ Product Designer & Researcher with **6+ years of experience** building and scali
 | [PROJECTS.md](./PROJECTS.md) | Notable product initiatives |
 | [ACHIEVEMENTS.md](./ACHIEVEMENTS.md) | Metrics & business impact |
 | [AI-WORKFLOW.md](./AI-WORKFLOW.md) | AI-assisted design practice |
+| [TEACHING_EXPERIENCE.md](./TEACHING_EXPERIENCE.md) | 350+ hours of UI/UX teaching & mentorship |
 | [SKILLS.md](./SKILLS.md) | Skills & expertise |
 | [TOOLS.md](./TOOLS.md) | Software & AI tools |
 

@@ -9,6 +9,8 @@ Notable product initiatives across 6+ years, organized by company.
 ### Checkout Conversion Optimization
 Research-led initiative to reduce drop-offs and improve conversion across the checkout funnel. Combined hybrid usability testing (guerrilla and unmoderated) with AI-assisted research workflows to plan studies, synthesize findings, and drive design decisions.
 
+**[→ Full case study](https://github.com/RaamPujanggaSadewa/FLIK-Checkout-Conversion)**
+
 ### Shipping Aggregator Pivot
 Led the design component of FLIK's strategic expansion from a payment ecosystem into a shipping aggregator. Redesigned the merchant dashboard and introduced new logistics-related product features, contributing to increased merchant acquisition.
 
@@ -27,6 +29,8 @@ Initiated and established FLIK's design system from scratch to improve visual co
 
 ### Cash-Out Flow Redesign
 Redesigned the disbursement (cash-out) flow, reducing operational friction and manual handling. Result: **76% improvement in disbursement process efficiency**.
+
+**[→ Full case study](https://github.com/RaamPujanggaSadewa/Pegipegi-Disbursement-Automation)**
 
 ### Homepage Redesign
 Led research and redesign of the Pegipegi homepage using user interviews and desirability studies. Improved content hierarchy, navigation clarity, and user engagement.
@@ -67,6 +71,8 @@ Designed the complete SPC platform connecting users with service providers — f
 
 ### Tetanggaku Ecosystem
 Designed all screens across the Tetanggaku ride-hailing ecosystem — customer apps (motorcycle, car, send items) and driver apps (order management, referral, e-wallet). Covered 10+ features across both sides of the platform.
+
+**[→ Full case study](https://github.com/RaamPujanggaSadewa/Tetanggaku-Ride-Hailing-Marketplace)**
 
 ---
 
