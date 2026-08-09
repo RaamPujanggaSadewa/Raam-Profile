@@ -25,6 +25,22 @@ Product Designer & Researcher with **6+ years of experience** building and scali
 
 ---
 
+## Technical Explorations & AI Tools
+
+Exploring the intersection of design, product, and engineering. Building automation tools and learning adjacent technical skills to better understand the full product stack.
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Survey Automation](https://github.com/RaamPujanggaSadewa/survey-automation) | AI-driven research pipeline: describe problem → AI writes script → creates Google Form → synthesizes responses → builds findings deck | Google Apps Script, AI |
+| [PRD Automation](https://github.com/RaamPujanggaSadewa/prd-automation) | Automated PRD generation from product briefs using AI, reducing manual documentation time | AI, Python |
+| [Design Automation](https://github.com/RaamPujanggaSadewa/Design-Automation) | Tools and scripts for automating design workflow repetition and exploration | HTML, JavaScript |
+| [Backend Exercise](https://github.com/RaamPujanggaSadewa/Backend-Exercise) | Learning backend fundamentals to understand how systems work beyond the UI layer | HTML, Backend concepts |
+| [QA Automation (Playwright)](https://github.com/RaamPujanggaSadewa/Playwright-Exercise) | Testing automation exploration using Playwright to understand QA workflows and product quality assurance | Playwright, JavaScript |
+
+**Why this matters:** As a designer-turned-product-leader, understanding the full stack—from AI tools that accelerate research, to backend architecture, to QA automation—informs better product decisions and enables cross-functional fluency with engineering and operations teams.
+
+---
+
 ## Navigate
 
 | File | Contents |
