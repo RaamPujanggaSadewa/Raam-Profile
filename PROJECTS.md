@@ -1,6 +1,6 @@
 # Projects: Raam Pujangga Sadewa
 
-Notable product work across almost 7 years, by company. The three featured case studies each have a full write-up and a narrated video on the [portfolio](https://raam-portfolio-eta.vercel.app).
+Notable product work across almost 7 years, by company. The three featured case studies each have a full write-up and a narrated video on the [portfolio](https://raamportfolio.vercel.app).
 
 ---
 
@@ -9,7 +9,7 @@ Notable product work across almost 7 years, by company. The three featured case 
 ### Checkout entry redesign (featured)
 Four phases of research and redesign on how shoppers get into FLIK checkout: a heuristic audit, an unmoderated Maze study, a session fix with engineering, and a one-step flow refined through guerrilla testing. Found that shoppers wanted login rewards but chose guest checkout because it felt faster. Shipped logins that last a month instead of 48 hours, and a one-step checkout that shows the shopper's potential reward where they pay. Conversion impact isn't measured yet.
 
-**[→ Case study](https://github.com/RaamPujanggaSadewa/FLIK-Checkout-Conversion)** · [On the portfolio](https://raam-portfolio-eta.vercel.app/work/flik-checkout)
+**[→ Case study](https://github.com/RaamPujanggaSadewa/FLIK-Checkout-Conversion)** · [On the portfolio](https://raamportfolio.vercel.app/work/flik-checkout)
 
 ### Merchant dashboard, built in code
 Building FLIK's merchant dashboard with AI-assisted development (Claude Code), taking features from PRD and design to working code, then QA in staging and production.
@@ -30,7 +30,7 @@ Started and established FLIK's design system to improve consistency and speed up
 ### Refund workflow redesign (featured)
 Shadowed and interviewed the Finance and Customer Service teams, mapped a refund from request to payout, and redesigned the back-office workflow: automatic sorting by payment method, the system confirming details with the traveller, and one dashboard both teams share. Refund time went from about a month to about a week (76% faster).
 
-**[→ Case study](https://github.com/RaamPujanggaSadewa/Pegipegi-Disbursement-Automation)** · [On the portfolio](https://raam-portfolio-eta.vercel.app/work/pegipegi-refunds)
+**[→ Case study](https://github.com/RaamPujanggaSadewa/Pegipegi-Disbursement-Automation)** · [On the portfolio](https://raamportfolio.vercel.app/work/pegipegi-refunds)
 
 ### Homepage redesign
 Led research (user interviews, desirability studies) and the redesign of the homepage to improve content hierarchy, navigation and engagement.
@@ -45,7 +45,7 @@ Designed and launched a referral program, and designed e-wallet and credit card 
 ### A 3-app ride-hailing ecosystem (featured)
 Sole designer of the customer app and both driver apps (motorbike and car), designed as one journey so what a rider sees always matches what their driver sees. 100K+ downloads and 4.3★ on Google Play. Also hosted Tetanggaku's TikTok Live for about three months, which became a feedback loop with drivers.
 
-**[→ Case study](https://github.com/RaamPujanggaSadewa/Tetanggaku-Ride-Hailing-Marketplace)** · [On the portfolio](https://raam-portfolio-eta.vercel.app/work/tetanggaku)
+**[→ Case study](https://github.com/RaamPujanggaSadewa/Tetanggaku-Ride-Hailing-Marketplace)** · [On the portfolio](https://raamportfolio.vercel.app/work/tetanggaku)
 
 ---
 

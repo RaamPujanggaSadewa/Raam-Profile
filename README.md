@@ -1,7 +1,7 @@
 # Raam Pujangga Sadewa
 **Product Design Engineer** · Checkout, payments and marketplaces · Jakarta, Indonesia (remote, UTC+7)
 
-raamps3@gmail.com · [Portfolio](https://raam-portfolio-eta.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raamps3) · [Download CV](./RaamPujanggaSadewa_CV.pdf)
+raamps3@gmail.com · [Portfolio](https://raamportfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raamps3) · [Download CV](./RaamPujanggaSadewa_CV.pdf)
 
 ---
 
@@ -33,7 +33,7 @@ At FLIK, with no dedicated PM, I take merchant features from first request to re
 
 ## Case studies
 
-Each case study has a narrated video on the [portfolio](https://raam-portfolio-eta.vercel.app).
+Each case study has a narrated video on the [portfolio](https://raamportfolio.vercel.app).
 
 | Case study | Company | Outcome |
 |---|---|---|

@@ -1,7 +1,7 @@
 # Profile: Raam Pujangga Sadewa
 
 **Product Design Engineer** · Jakarta, Indonesia (remote, UTC+7)
-raamps3@gmail.com · +62 831 7185 4811 · [Portfolio](https://raam-portfolio-eta.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raamps3)
+raamps3@gmail.com · +62 831 7185 4811 · [Portfolio](https://raamportfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raamps3)
 
 ---
 
@@ -71,4 +71,4 @@ IEEE publication: *Fire Detection Using Image Processing Techniques with Convolu
 ## Contact
 
 raamps3@gmail.com · +62 831 7185 4811
-[Portfolio](https://raam-portfolio-eta.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raamps3) · [Book a 30-minute call](https://calendly.com/raamps3/30min) · [Download CV (PDF)](./RaamPujanggaSadewa_CV.pdf)
+[Portfolio](https://raamportfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raamps3) · [Book a 30-minute call](https://calendly.com/raamps3/30min) · [Download CV (PDF)](./RaamPujanggaSadewa_CV.pdf)

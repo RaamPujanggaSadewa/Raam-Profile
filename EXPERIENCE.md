@@ -27,7 +27,7 @@ A merchant checkout and payments platform. Brands add FLIK's one-click checkout 
 - Started and established FLIK's design system to improve consistency and speed up design-to-development.
 - Partner with Operations, Sales and Engineering to turn business needs into specs and user-centred solutions.
 
-[Read the checkout case study →](https://raam-portfolio-eta.vercel.app/work/flik-checkout)
+[Read the checkout case study →](https://raamportfolio.vercel.app/work/flik-checkout)
 
 ---
 
@@ -55,7 +55,7 @@ One of Indonesia's leading travel booking platforms for flights, hotels and trai
 - Designed e-wallet and credit card management, giving travellers more flexible ways to pay.
 - Created user flows, wireframes and low-fidelity designs, and validated decisions with research and stakeholders.
 
-[Read the refunds case study →](https://raam-portfolio-eta.vercel.app/work/pegipegi-refunds)
+[Read the refunds case study →](https://raamportfolio.vercel.app/work/pegipegi-refunds)
 
 ---
 
@@ -107,7 +107,7 @@ Axiata Group's digital consultancy, headquartered in Sri Lanka, delivering telec
 - Driver apps: order handling for motorbike and car drivers, referral program, e-wallet and more.
 - Hosted Tetanggaku's TikTok Live for about three months, teaching drivers the app and promoting the service; drivers' questions fed back into the design.
 
-[Read the Tetanggaku case study →](https://raam-portfolio-eta.vercel.app/work/tetanggaku)
+[Read the Tetanggaku case study →](https://raamportfolio.vercel.app/work/tetanggaku)
 
 ### UX Designer · OOSH 🇳🇿
 Remote, New Zealand
