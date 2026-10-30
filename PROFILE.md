@@ -1,23 +1,27 @@
-# Profile — Raam Pujangga Sadewa
+# Profile: Raam Pujangga Sadewa
 
-**Product Designer & Researcher** · Jakarta, Indonesia
-raamps3@gmail.com · +62 831 7185 4811 · [LinkedIn](https://www.linkedin.com/in/raamps3) · [Portfolio](https://raam.framer.website/)
+**Product Design Engineer** · Jakarta, Indonesia (remote, UTC+7)
+raamps3@gmail.com · +62 831 7185 4811 · [Portfolio](https://raam-portfolio-eta.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raamps3)
 
 ---
 
 ## Summary
 
-Product Designer & Researcher with 6+ years of experience building and scaling digital products in fintech, marketplaces, logistics, and commerce platforms. Combines product discovery, user research, business analysis, UX design, and AI-assisted workflows. Experienced in leading end-to-end product initiatives — from requirement gathering, PRD creation, stakeholder alignment, and design execution, to QA validation and engineering collaboration. Currently leading FLIK's growth as a leading merchant ecosystem enabler.
+Product Design Engineer with almost 7 years designing checkout, payments and marketplace products, with teams in Indonesia, Singapore, Sri Lanka, the US and New Zealand.
+
+At FLIK I own merchant products end to end with no dedicated PM: gathering requirements from Sales, the CEO and merchants, writing the PRDs, designing, building in code with Claude Code, and running QA in staging and production before announcing releases to merchants.
+
+Research-led: funnel data, shadowing, unmoderated and guerrilla testing. Computer Engineering graduate, former design lead of 3, and 350+ hours teaching UI/UX.
 
 ---
 
-## Design Philosophy
+## Design philosophy
 
-I start with understanding reality by talking to users, shadowing teams, and collaborating with product and engineering from day one. I don't assume. I observe. I adapt my process to real constraints like time, resources, and team size rather than forcing a perfect methodology. I validate through research and iteration, not gut feel.
+I start with understanding reality by talking to users, shadowing teams, and collaborating with product and engineering from day one. I don't assume. I observe. I adapt my process to real constraints like time, resources and team size rather than forcing a perfect methodology. I validate through research and iteration, not gut feel.
 
 Design is a conversation, not a handoff. I won't ship without the implementation team's input or without testing with real users. The best solutions come from cross-functional collaboration and seeing how people actually work.
 
-I also believe in lifting others up. I mentor junior designers and teach UI/UX because I think the field grows when we share what we know.
+I also believe in lifting others up. I mentor designers and teach UI/UX because I think the field grows when we share what we know.
 
 ---
 
@@ -29,23 +33,24 @@ I'm pursuing two parallel paths. In the immediate term, I'm deepening my teachin
 
 ## What others say
 
-"Working with Raam was a pleasure. He elevated my vision beyond expectations with his creativity and expertise, making the process seamless." — Ibraheem Olasupo, CEO, Service-Plus Connect
+> "I highly recommend Raam as a talented product designer. He elevated my vision beyond expectations with his creativity and user-centric mindset. A true team player, he integrates user needs seamlessly and delivers intuitive designs. Any project in his hands will exceed expectations!"
+> — Kandika Bagaskara, worked with Raam at FLIK
 
-"I highly recommend Raam as a talented product designer. He elevated my vision beyond expectations with his creativity and user-centric mindset. A true team player, he integrates user needs seamlessly and delivers intuitive designs." — Kandika Bagaskara, FLIK
+> "I highly recommend Raam as a diligent product designer. His strong user-centric mindset and attention to detail result in intuitive designs. He integrates user needs seamlessly and embraces feedback, making him a valuable team player and asset in product design."
+> — Athur Muharam, worked with Raam at Pegipegi
 
-"Raam is diligent and brings a strong user-centric mindset with attention to detail. His designs are intuitive and he embraces feedback, making him a valuable team player." — Athur Muharam, Pegipegi
+> "Working with Raam was a pleasure. He elevated my vision beyond expectations with his creativity and expertise, making the process seamless. I highly recommend him—any project in his hands will exceed expectations!"
+> — Ibraheem Olasupo, CEO, Service-Plus Connect (freelance client)
 
-"Raam is great to work with. Smart and experienced." — Bevan Hockly, CEO, OOSH
+> "Raam is great to work with. Smart and experienced"
+> — Bevan Hockly, CEO, OOSH (freelance client)
 
 ---
 
 ## Education
 
-**Bachelor of Engineering, Computer Engineering**
-Telkom University · 2015 – 2019 · GPA 3.14
-International publication (IEEE)
-
----
+**B.Eng. Computer Engineering** · Telkom University · 2015 – 2019
+IEEE publication: *Fire Detection Using Image Processing Techniques with Convolutional Neural Networks*
 
 ## Certifications
 
@@ -55,35 +60,15 @@ International publication (IEEE)
 - Visual Elements of User Interface Design
 - Certificate of Completion: Binar Academy Facilitator
 
----
-
-## Achievements
-
-- 2nd Winner, Best Customer Experience Initiative
-- Innovative High Tech Product of The Year
-- CommuLINEnity Manager, Region 4 of Starting LINE Competition
-- Letter Contest to President Joko Widodo
-
----
-
-## Publications
-
-**Fire Detection Using Image Processing Techniques with Convolutional Neural Networks**
-IEEE · Telkom University · 2019
-
----
-
 ## Languages
 
-- Indonesian — Native
-- English — Professional Working
+- Indonesian: native
+- English: professional working
+- German: learning
 
 ---
 
 ## Contact
 
-raamps3@gmail.com
-+62 831 7185 4811
-[LinkedIn — linkedin.com/in/raamps3](https://www.linkedin.com/in/raamps3)
-[Portfolio — raam.framer.website](https://raam.framer.website/)
-[Download CV (PDF)](./RaamPujanggaSadewa_CV.pdf)
+raamps3@gmail.com · +62 831 7185 4811
+[Portfolio](https://raam-portfolio-eta.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raamps3) · [Book a 30-minute call](https://calendly.com/raamps3/30min) · [Download CV (PDF)](./RaamPujanggaSadewa_CV.pdf)

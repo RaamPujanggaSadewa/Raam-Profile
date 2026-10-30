@@ -1,89 +1,85 @@
-# Projects — Raam Pujangga Sadewa
+# Projects: Raam Pujangga Sadewa
 
-Notable product initiatives across 6+ years, organized by company.
+Notable product work across almost 7 years, by company. The three featured case studies each have a full write-up and a narrated video on the [portfolio](https://raam-portfolio-eta.vercel.app).
 
 ---
 
 ## FLIK · Jul 2023 – Present
 
-### Checkout Conversion Optimization
-Research-led initiative to reduce drop-offs and improve conversion across the checkout funnel. Combined hybrid usability testing (guerrilla and unmoderated) with AI-assisted research workflows to plan studies, synthesize findings, and drive design decisions.
+### Checkout entry redesign (featured)
+Four phases of research and redesign on how shoppers get into FLIK checkout: a heuristic audit, an unmoderated Maze study, a session fix with engineering, and a one-step flow refined through guerrilla testing. Found that shoppers wanted login rewards but chose guest checkout because it felt faster. Shipped logins that last a month instead of 48 hours, and a one-step checkout that shows the shopper's potential reward where they pay. Conversion impact isn't measured yet.
 
-**[→ Full case study](https://github.com/RaamPujanggaSadewa/FLIK-Checkout-Conversion)**
+**[→ Case study](https://github.com/RaamPujanggaSadewa/FLIK-Checkout-Conversion)** · [On the portfolio](https://raam-portfolio-eta.vercel.app/work/flik-checkout)
 
-### Shipping Aggregator Pivot
-Led the design component of FLIK's strategic expansion from a payment ecosystem into a shipping aggregator. Redesigned the merchant dashboard and introduced new logistics-related product features, contributing to increased merchant acquisition.
+### Merchant dashboard, built in code
+Building FLIK's merchant dashboard with AI-assisted development (Claude Code), taking features from PRD and design to working code, then QA in staging and production.
 
-### Login & Guest Checkout Flow
-Redesigned login and guest checkout flows to reduce friction and improve retention for first-time users, minimizing drop-offs at the top of the funnel.
+### Shipping aggregator pivot
+Redesigned the merchant dashboard and designed new logistics products for FLIK's move into shipping aggregation, contributing to merchant acquisition.
 
-### Post-Onboarding Merchant Research
-Ran a 3-month cohort study on newly onboarded merchants to identify behavioral patterns, pain points, and long-term engagement opportunities. Translated findings into actionable design improvements.
+### Post-onboarding merchant research
+A three-month study with newly onboarded merchants to find behaviour patterns, pain points and engagement gaps.
 
-### Design System
-Initiated and established FLIK's design system from scratch to improve visual consistency, scalability, and design-to-development handoff efficiency across the product.
+### Design system
+Started and established FLIK's design system to improve consistency and speed up design-to-development.
 
 ---
 
 ## Pegipegi · May 2022 – Jan 2023
 
-### Cash-Out Flow Redesign
-Redesigned the disbursement (cash-out) flow, reducing operational friction and manual handling. Result: **76% improvement in disbursement process efficiency**.
+### Refund workflow redesign (featured)
+Shadowed and interviewed the Finance and Customer Service teams, mapped a refund from request to payout, and redesigned the back-office workflow: automatic sorting by payment method, the system confirming details with the traveller, and one dashboard both teams share. Refund time went from about a month to about a week (76% faster).
 
-**[→ Full case study](https://github.com/RaamPujanggaSadewa/Pegipegi-Disbursement-Automation)**
+**[→ Case study](https://github.com/RaamPujanggaSadewa/Pegipegi-Disbursement-Automation)** · [On the portfolio](https://raam-portfolio-eta.vercel.app/work/pegipegi-refunds)
 
-### Homepage Redesign
-Led research and redesign of the Pegipegi homepage using user interviews and desirability studies. Improved content hierarchy, navigation clarity, and user engagement.
+### Homepage redesign
+Led research (user interviews, desirability studies) and the redesign of the homepage to improve content hierarchy, navigation and engagement.
 
-### Referral Program
-Designed and launched a referral program to drive user acquisition and retention initiatives.
-
-### E-Wallet & Credit Card Management
-Designed e-wallet and credit card management features, expanding payment flexibility for users.
+### Referral program, e-wallet and card management
+Designed and launched a referral program, and designed e-wallet and credit card management for more flexible payments.
 
 ---
 
-## Sekolah.mu · May 2021 – May 2022
+## Tetanggaku · Apr 2022 – Mar 2024 (freelance)
 
-### Learning Page Redesign
-Redesigned the core learning page for a more engaging and effective experience. Result: **35% increase in class completion rates**.
+### A 3-app ride-hailing ecosystem (featured)
+Sole designer of the customer app and both driver apps (motorbike and car), designed as one journey so what a rider sees always matches what their driver sees. 100K+ downloads and 4.3★ on Google Play. Also hosted Tetanggaku's TikTok Live for about three months, which became a feedback loop with drivers.
 
-### Academic Dashboard Revamp
-Led the end-to-end revamp of the Academic Dashboard used by academic and operational teams. Established UX standards for consistency and scalability across academic features.
-
----
-
-## Axiata Digital Labs · Dec 2019 – May 2021
-
-### Client Projects (IT Consulting)
-Delivered end-to-end UI/UX design across multiple client engagements. Supported pitch presentations and Design Sprint facilitation that contributed to **$60K+ in secured client deals**.
+**[→ Case study](https://github.com/RaamPujanggaSadewa/Tetanggaku-Ride-Hailing-Marketplace)** · [On the portfolio](https://raam-portfolio-eta.vercel.app/work/tetanggaku)
 
 ---
 
-## Service-Plus Connect · Dec 2024 – Aug 2025
+## Service-Plus Connect · Dec 2024 – Aug 2025 (freelance)
 
-### Platform Design (End-to-End)
-Designed the complete SPC platform connecting users with service providers — from discovery and booking to transaction. Collaborated directly with the CEO on product strategy and created pitch decks to support fundraising.
-
----
-
-## PT. Tetangga Saling Bantu · Apr 2022 – Mar 2024
-
-### Tetanggaku Ecosystem
-Designed all screens across the Tetanggaku ride-hailing ecosystem — customer apps (motorcycle, car, send items) and driver apps (order management, referral, e-wallet). Covered 10+ features across both sides of the platform.
-
-**[→ Full case study](https://github.com/RaamPujanggaSadewa/Tetanggaku-Ride-Hailing-Marketplace)**
-
----
-
-## Artpedia · Mar 2022 – Oct 2022
-
-### NFT Marketplace Features
-Worked on Indonesia's first NFT marketplace. Key projects: Product Detail Page revamp, competitive analysis (MagicEden, LooksRare, NFT Coinbase, Paras Comic), Transfer NFT, WYSIWYG editor, ERC-1155, Launchpad, and Centralized NFT.
+### Two-sided service marketplace
+Designed the full platform for both customers and service providers, worked with the CEO on product strategy, ran delivery in Jira, and created pitch decks for funding.
 
 ---
 
 ## GoodHood.SG · Jan 2023 – Jul 2023
 
-### Hyperlocal Community Platform
-Owned end-to-end design execution for GoodHood.SG — a hyperlocal platform in Singapore. Translated CEO vision into feature specs, conducted competitive analysis, and led design QA through to launch.
+### Hyperlocal community platform
+Owned end-to-end design, turned the CEO's vision into feature specs, ran competitive analysis and led design QA on every release.
+
+---
+
+## Sekolah.mu · May 2021 – May 2022
+
+### Learning page redesign
+Redesigned the core learning page for a more engaging experience: **35% higher class completion**.
+
+### Academic Dashboard revamp
+Led the revamp of the Academic Dashboard and set its UX standards for academic and operations teams.
+
+---
+
+## Axiata Digital Labs · Dec 2019 – May 2021
+
+### Client projects (IT consulting)
+End-to-end UI/UX across several client projects, Design Sprint facilitation, and pitch support that helped win **$60K+** in client deals. Promoted to Lead within 12 months.
+
+---
+
+## Artpedia, WAWN, OOSH (freelance, 2022)
+
+NFT marketplace features (Artpedia), a social app for Chinese speakers worldwide (WAWN), and flows for publishing social posts to car-mounted digital billboards (OOSH).

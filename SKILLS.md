@@ -1,4 +1,4 @@
-# Skills — Raam Pujangga Sadewa
+# Skills: Raam Pujangga Sadewa
 
 ## Product & UX Design
 
@@ -12,6 +12,10 @@ User Research · Usability Testing · Heuristic Evaluation · A/B Testing · Gue
 
 Agile Product Development · Design Sprint · Business Analysis · Stakeholder Alignment · Cross-functional Collaboration · Design-to-Development Handoff
 
-## AI & Modern Design Workflows
+## Product ownership
 
-AI-assisted research planning and synthesis · AI-supported rapid prototyping · Prompt-driven UX exploration · Accelerated insight generation and design recommendation
+Requirements gathering · PRD writing · QA in staging and production · Release communication
+
+## AI and build
+
+Building in code with Claude Code · AI-assisted research planning and synthesis · Prompt-driven UX exploration · Automated QA (Playwright)

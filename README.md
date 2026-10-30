@@ -1,59 +1,69 @@
 # Raam Pujangga Sadewa
-**Product Designer & Researcher** · Jakarta, Indonesia
+**Product Design Engineer** · Checkout, payments and marketplaces · Jakarta, Indonesia (remote, UTC+7)
 
-raamps3@gmail.com · +62 831 7185 4811 · [LinkedIn](https://www.linkedin.com/in/raamps3) · [Portfolio](https://raam.framer.website/) · [Download CV](./RaamPujanggaSadewa_CV.pdf)
-
----
-
-Product Designer & Researcher with **6+ years of experience** building and scaling digital products in fintech, marketplaces, logistics, and commerce platforms. Combines product discovery, user research, business analysis, UX design, and AI-assisted workflows.
-
-**Impact highlights:**
-- 76% boost in disbursement efficiency — Pegipegi
-- 35% increase in class completion rates — Sekolah.mu
-- $60K+ in client deals secured — Axiata Digital Labs
-- Currently driving FLIK's growth as a merchant ecosystem enabler
+raamps3@gmail.com · [Portfolio](https://raam-portfolio-eta.vercel.app) · [LinkedIn](https://www.linkedin.com/in/raamps3) · [Download CV](./RaamPujanggaSadewa_CV.pdf)
 
 ---
 
-## Featured Case Studies
+I design checkout, payments and marketplace products, where small friction costs real money.
 
-| Project | Company | Outcome |
-|---------|---------|---------|
-| [Checkout Conversion Optimization](https://github.com/RaamPujanggaSadewa/FLIK-Checkout-Conversion) | FLIK | Research-led checkout redesign, boosted conversion |
-| [Disbursement Process Automation](https://github.com/RaamPujanggaSadewa/Pegipegi-Disbursement-Automation) | Pegipegi | 76% efficiency improvement |
-| [Ride-Hailing Marketplace Design](https://github.com/RaamPujanggaSadewa/Tetanggaku-Ride-Hailing-Marketplace) | Tetanggaku | 100K+ downloads, 4.5★ rating |
+For almost 7 years I've worked with teams in Indonesia, Singapore, Sri Lanka, the US and New Zealand. At FLIK I own merchant products end to end, from requirements and PRDs to design, QA and launch, and I build in code with Claude Code.
 
----
-
-## Technical Explorations & AI Tools
-
-Exploring the intersection of design, product, and engineering. Building automation tools and learning adjacent technical skills to better understand the full product stack.
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Survey Automation](https://github.com/RaamPujanggaSadewa/survey-automation) | AI-driven research pipeline: describe problem → AI writes script → creates Google Form → synthesizes responses → builds findings deck | Google Apps Script, AI |
-| [PRD Automation](https://github.com/RaamPujanggaSadewa/prd-automation) | Automated PRD generation from product briefs using AI, reducing manual documentation time | AI, Python |
-| [Design Automation](https://github.com/RaamPujanggaSadewa/Design-Automation) | Tools and scripts for automating design workflow repetition and exploration | HTML, JavaScript |
-| [Backend Exercise](https://github.com/RaamPujanggaSadewa/Backend-Exercise) | Learning backend fundamentals to understand how systems work beyond the UI layer | HTML, Backend concepts |
-| [QA Automation (Playwright)](https://github.com/RaamPujanggaSadewa/Playwright-Exercise) | Testing automation exploration using Playwright to understand QA workflows and product quality assurance | Playwright, JavaScript |
-
-**Why this matters:** As a designer-turned-product-leader, understanding the full stack—from AI tools that accelerate research, to backend architecture, to QA automation—informs better product decisions and enables cross-functional fluency with engineering and operations teams.
+**Highlights**
+- Cut refund time at Pegipegi from about a month to about a week (76% faster)
+- Found why shoppers skipped login at FLIK checkout (a 5.15% gap), then shipped a one-step checkout that shows their reward where they pay
+- Sole designer of Tetanggaku's 3-app ride-hailing ecosystem: 100K+ downloads, 4.3★ on Google Play
+- Raised class completion at Sekolah.mu by 35%
+- Promoted to Lead at Axiata Digital Labs within 12 months, leading 3 designers and helping win $60K+ in client deals
+- 350+ hours teaching UI/UX
 
 ---
 
-## Navigate
+## How I work now
+
+At FLIK, with no dedicated PM, I take merchant features from first request to release:
+
+1. **Requirements** gathered from Sales, the CEO and merchant feedback
+2. **PRD**: I write it and agree the scope with the team
+3. **Design**: flows and high-fidelity screens
+4. **Build**: in code with Claude Code, on the merchant dashboard
+5. **QA and release**: tested in staging and production, then announced to the right merchants
+
+---
+
+## Case studies
+
+Each case study has a narrated video on the [portfolio](https://raam-portfolio-eta.vercel.app).
+
+| Case study | Company | Outcome |
+|---|---|---|
+| [Making one-click checkout worth logging in for](https://github.com/RaamPujanggaSadewa/FLIK-Checkout-Conversion) | FLIK | Four phases of research; logins last a month instead of 48 hours; a one-step checkout that shows the shopper's reward |
+| [Cutting refund time from a month to a week](https://github.com/RaamPujanggaSadewa/Pegipegi-Disbursement-Automation) | Pegipegi | About 1 month → about 1 week (76% faster) |
+| [Designing a ride-hailing ecosystem as the only designer](https://github.com/RaamPujanggaSadewa/Tetanggaku-Ride-Hailing-Marketplace) | Tetanggaku | 100K+ downloads, 4.3★ on Google Play |
+
+---
+
+## Lab: tools I've built with Claude Code
+
+| Project | What it does |
+|---|---|
+| [Survey automation](https://github.com/RaamPujanggaSadewa/survey-automation) | Describe a research question; it writes the survey, creates the Google Form and summarises the answers |
+| [PRD automation](https://github.com/RaamPujanggaSadewa/prd-automation) | Turns a product brief into a structured PRD draft |
+| [Design automation](https://github.com/RaamPujanggaSadewa/Design-Automation) | Scripts that take repetitive steps out of design work |
+| [QA with Playwright](https://github.com/RaamPujanggaSadewa/Playwright-Exercise) | Automated tests, to understand how QA protects product quality |
+
+---
+
+## More
 
 | File | Contents |
-|------|----------|
-| [PROFILE.md](./PROFILE.md) | Summary, education, certifications, contact |
-| [EXPERIENCE.md](./EXPERIENCE.md) | Full-time & freelance roles |
-| [PROJECTS.md](./PROJECTS.md) | Notable product initiatives |
-| [ACHIEVEMENTS.md](./ACHIEVEMENTS.md) | Metrics & business impact |
-| [AI-WORKFLOW.md](./AI-WORKFLOW.md) | AI-assisted design practice |
-| [TEACHING_EXPERIENCE.md](./TEACHING_EXPERIENCE.md) | 350+ hours of UI/UX teaching & mentorship |
-| [SKILLS.md](./SKILLS.md) | Skills & expertise |
-| [TOOLS.md](./TOOLS.md) | Software & AI tools |
+|---|---|
+| [PROFILE.md](./PROFILE.md) | Summary, how I work, recommendations, education |
+| [EXPERIENCE.md](./EXPERIENCE.md) | Full-time and freelance roles |
+| [PROJECTS.md](./PROJECTS.md) | Notable product work, by company |
+| [ACHIEVEMENTS.md](./ACHIEVEMENTS.md) | Results, awards and publication |
+| [AI-WORKFLOW.md](./AI-WORKFLOW.md) | How I use AI and code in my work |
+| [TEACHING_EXPERIENCE.md](./TEACHING_EXPERIENCE.md) | 350+ hours of UI/UX teaching and mentoring |
+| [SKILLS.md](./SKILLS.md) · [TOOLS.md](./TOOLS.md) | Skills and tools |
 
----
-
-[Download CV (PDF)](./RaamPujanggaSadewa_CV.pdf)
+Open to remote Senior Product Designer roles. [Book a 30-minute call](https://calendly.com/raamps3/30min).

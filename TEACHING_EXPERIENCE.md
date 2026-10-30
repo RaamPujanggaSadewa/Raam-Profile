@@ -1,4 +1,4 @@
-# Teaching & Mentorship — Raam Pujangga Sadewa
+# Teaching and Mentorship: Raam Pujangga Sadewa
 
 ## Overview
 
@@ -42,17 +42,24 @@ Facilitated UI/UX Design bootcamp workshops covering research fundamentals, desi
 
 ---
 
-### UI/UX Designer Facilitator · Binar Academy
+### UI/UX Design Facilitator · Binar Academy
 **Feb 2024 – Mar 2024** · Jakarta, Indonesia
 
 Facilitated bootcamp cohort on UI/UX Design fundamentals, Figma, wireframing, low/high fidelity design, prototyping, and portfolio construction.
 
 ---
 
-### UI/UX Designer Facilitator · Binar Academy
+### UI/UX Design Facilitator · Binar Academy
 **Jun 2022 – Sep 2022**
 
 Facilitated bootcamp cohort on core UI/UX Design topics: UX Research, Figma, Wireframing, Low/High Fidelity, Prototyping, and Portfolio Construction.
+
+---
+
+### Lead UI/UX Designer · Axiata Digital Labs
+**Dec 2020 – May 2021**
+
+Led and mentored a team of 3 designers, assigning work to each person's strengths, and taught the team the Design Sprint method.
 
 ---
 
